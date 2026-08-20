@@ -108,7 +108,7 @@ Supports Day Mode and Night Mode for a better dashboard experience.
 ```text
 Delivery_Performance_Logistics_Analysis/
 │
-├── app3.py
+├── app.py
 ├── requirements.txt
 ├── README.md
 │
@@ -219,7 +219,7 @@ pip install -r requirements.txt
 ### 6. Run the Streamlit application
 
 ```bash
-streamlit run app3.py
+streamlit run app.py
 ```
 
 The dashboard will open in your browser.
